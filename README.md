@@ -131,4 +131,3 @@ service call miui.mqsas.IMQSNative 21 i32 1 s16 "sh" i32 1 s16 "脚本路径" s1
 ## 👤 作者
 
 - **紫檀**
-- QQ: 732275573
