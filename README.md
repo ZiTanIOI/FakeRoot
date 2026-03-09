@@ -2,7 +2,7 @@
 
 [English](README_EN.md) | 中文
 
-FakeRoot 是一个专为 MIUI 设备设计的 Root 权限管理解决方案，利用 MIUI 系统隐藏的 `miui.mqsas.IMQSNative` 服务以 root 权限执行命令。
+FakeRoot 是一个专为 MIUI 设备设计的 Root 权限管理解决方案，利用 MIUI 系统隐藏的 `miui.mqsas.IMQSNative` 服务以 root 权限执行命令。项目使用Claude Code创建，代码全部通过AI生成，请谨慎使用。
 
 ## ✨ 功能特性
 
