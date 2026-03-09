@@ -96,4 +96,3 @@ This project uses MIT licensing.
 ## 👤 Author
 
 - **紫檀**
-- QQ: 732275573
